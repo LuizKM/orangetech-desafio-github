@@ -3,3 +3,8 @@ https://web.dio.me/lab/criando-seu-primeiro-repositorio-no-github-para-compartil
 
 link para o guia markdown:
 https://www.markdownguide.org/basic-syntax/#lists-1
+
+comandos gitbash:
+git add .
+git commit -m "Mensagem do commit"
+git push origin main
